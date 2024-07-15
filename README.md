@@ -11,18 +11,20 @@ PySnake is a classic Snake Game implemented in Python using the Pygame library. 
    cd PySnake
 
 2. **Install dependencies:**
-    Make sure you have Python 3.x and Pygame installed. If not, install Pygame using pip:
+
+   Make sure you have Python 3.x and Pygame installed. If not, install Pygame using pip:
+
    ```bash
    pip install pygame
-
+   
 3. **Run the game:**
 
    ```bash
-   python snake_game.py
+   python snake.py
 
 ## Controls 🕹️
 
-- Use arrow keys (`↑`, `↓`, `←`, `→`) to change the direction of the snake.
+ Use arrow keys (`↑`, `↓`, `←`, `→`) to change the direction of the snake.
 
 ## Gameplay 🎮
 
