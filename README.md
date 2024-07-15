@@ -20,7 +20,7 @@ PySnake is a classic Snake Game implemented in Python using the Pygame library. 
 3. **Run the game:**
 
    ```bash
-   python snake.py
+   python main.py
 
 ## Controls 🕹️
 
