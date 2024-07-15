@@ -2,7 +2,7 @@
 
 PySnake is a classic Snake Game implemented in Python using the Pygame library. Control a snake, eat food, avoid collisions, and strive to achieve the highest score in this nostalgic arcade experience. The game features intuitive controls, dynamic gameplay mechanics, and a sleek dark-themed UI for optimal visibility. Enjoy hours of fun as you navigate the snake through its journey of growth and challenge.
 
-## Installation 🛠️
+## Installation ⚙️
 
 1. **Clone the repository:**
 
